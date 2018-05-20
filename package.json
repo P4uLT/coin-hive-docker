@@ -1,0 +1,10 @@
+{
+  "name": "coin-hive-docker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node coin-hive"
+  },
+  "dependencies": {
+    "coin-hive": "latest"
+  }
+}
